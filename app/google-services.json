@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552499750274",
+    "project_id": "realtimedatabase-5280c",
+    "storage_bucket": "realtimedatabase-5280c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552499750274:android:1a8109bbae431eeb361b9b",
+        "android_client_info": {
+          "package_name": "com.rishab.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmF6JnS82zb4W-mFXO5qn8ccrRr6V3_Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Bitmap -->
+    <item>
+        <bitmap
+            android:src="@drawable/diagnostics" />
+    </item>
+
+    <!-- Stroke and Corners -->
+    <item>
+        <shape>
+            <stroke
+                android:width="15dp"
+                android:color="@color/Lavender"/>
+            <corners android:radius="50dp"/>
+        </shape>
+    </item>
+</layer-list>
